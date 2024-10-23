@@ -5,7 +5,7 @@ import (
 	"image/jpeg"
 	"os"
 
-	"github.com/Iwark/text2img"
+	"github.com/aveyuan/text2img"
 )
 
 var fontPath = flag.String("fontpath", "", "path to the font")
